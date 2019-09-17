@@ -1,0 +1,3 @@
+extends KinematicBody
+
+# Nothing scripted here ...
