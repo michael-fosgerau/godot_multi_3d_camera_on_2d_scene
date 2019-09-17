@@ -4,7 +4,9 @@ This example shows how to render multiple 3D cameras in a 3D scene to multiple s
 
 The code can easily be modified to have content from more than one 3D scene, and/or to render to one or more 2D scenes - but that's beyond the point here.
 
-The full godot example project can be found here: https://github.com/michael-fosgerau/godot_multi_3d_camera_on_2d_scene. The example I've made here is based on https://github.com/godotengine/godot-demo-projects
+The full godot example project can be found here: https://github.com/michael-fosgerau/godot_multi_3d_camera_on_2d_scene.
+
+This example is based on https://github.com/godotengine/godot-demo-projects.
 
 ## Youtube video demo
 
@@ -12,11 +14,11 @@ See https://youtu.be/YL-JVhfu8w4 for a recorded demo for this example code.
 
 ## Important note
 
-- This example is compatible with the currently latest Godot version (3.1 as of 18th of September 2019).
+This example is compatible with the current Godot version 3.1 (as of 18th of September 2019).
 
 ## Godot?
 
-Not sure what godot can do? This seems to simple for you? Well... With practice you can achieve something like this: https://www.youtube.com/watch?v=3sPFBmnfEEM - and I think that is pretty darn cool :-D
+Not sure what godot can do? This seems to simple for you? Well... With practice you can achieve something like this https://www.youtube.com/watch?v=3sPFBmnfEEM and I think that is pretty darn cool :-D
 
 ## Useful links
 
